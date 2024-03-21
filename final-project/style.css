@@ -1,0 +1,79 @@
+.nav {background-color: darkslategrey;}
+
+#header1 { padding: 25px;
+color: #198754}
+
+#intro { 
+    background-color:lightgray;
+    text-align: center;
+    justify-content: center;
+    
+}
+#name:hover{
+    transform: scale(1.1);
+    transition: 1s ease;
+    
+}
+#tital:hover {
+    transform: scale(1.1);
+    transition: 1s ease;
+    font-size: larger;
+}
+
+
+#techSkills {
+    flex-direction: row;
+    
+    
+}
+
+#softSkills{
+    flex-direction: row;
+    
+}
+
+#hobbies{
+    flex-direction: row;
+    
+    
+}
+
+
+/* #techSkills:hover{
+    background-color: darkorange;
+    display: grid;
+}
+
+#softSkills:hover{
+    background-color: darkorange;
+}
+
+#hobbies:hover{
+    background-color: darkorange;
+} */
+
+#advice{
+    font-size: x-large;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    
+}
+
+#adviceBox {
+    margin-top: 5%;
+}
+footer{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#meFace{
+    max-width: 50%;
+    max-height: 50%;
+    justify-content: center;
+    
+}
+
+li:hover{background-color: darkorange;}
